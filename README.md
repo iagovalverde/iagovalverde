@@ -7,7 +7,7 @@ src="https://raw.githubusercontent.com/gist/iagovalverde/2cc1233c0b02e5435742ef0
 
 - 🔭 I’m currently studying at the British School of Creative Arts and Technology
 
-- From SP/Brazil - Currently in Buenos Aires, Argentina
+- 🌍 From SP/Brazil - Currently in Buenos Aires, Argentina
   
 - 📕 Fluent in Portuguese and Spanish - studying English
 
