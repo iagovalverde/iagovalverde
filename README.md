@@ -10,7 +10,7 @@
   
 - 📕 Fluent in Portuguese and Spanish - studying English
 
-<br>
+<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
