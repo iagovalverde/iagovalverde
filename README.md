@@ -21,8 +21,8 @@
 <br><br>
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% src="https://github-readme-stats.vercel.app/api?username=iagovalverde&show_icons=true&theme=github_dark_dimmed" alt="iagovalverde's stats"/>
-<img width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagovalverde&layout=compact&theme=github_dark_dimmed" alt="iagovalverde's most languages"/>
+<img width=57% src="https://github-readme-stats.vercel.app/api?username=iagovalverde&show_icons=true&theme=github_dark_dimmed" alt="iagovalverde's stats"/>
+<img width=44% src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagovalverde&layout=compact&theme=github_dark_dimmed" alt="iagovalverde's most languages"/>
 </div>
 
  &nbsp;
