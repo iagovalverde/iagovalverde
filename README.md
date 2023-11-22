@@ -15,7 +15,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div align="left">
-<img width=53% align="left" src="https://github-readme-streak-stats.herokuapp.com?user=iagovalverde&theme=github_dark_dimmed&mode=weekly" />
+<img width=52% align="left" src="https://github-readme-streak-stats.herokuapp.com?user=iagovalverde&theme=github_dark_dimmed&mode=weekly" />
 </div>
 
 <br><br>
